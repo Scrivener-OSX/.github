@@ -40,12 +40,6 @@ Full-screen mode enables distraction-free writing through focused composition in
 
 ---
 
-<p align="center">
-  <img src="https://www.literatureandlatte.com/wp-content/uploads/2017/11/LaptopScriv.jpg" alt="Scrivener screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Scrivener OSX excels for long-form writing projects. Hierarchical project organization maintains structural clarity supporting complex manuscripts requiring flexible reorganization without file management overhead.
